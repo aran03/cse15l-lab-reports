@@ -14,4 +14,4 @@ It should look like this:
 
 Let's try a command! Let's use different function and see what we get. On separate runs, type 'cd' and 'cd ~' in the terminal. They should look something like this.
 
-![Image][cd.jpg]
+![Image](cd.jpg)
